@@ -1,0 +1,51 @@
+[gd_scene format=2]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = 227.0
+margin_right = -498.0
+
+[node name="Buttonw" type="Button" parent="."]
+anchor_left = 0.215
+anchor_top = 0.223
+anchor_right = 0.306
+anchor_bottom = 0.338
+margin_left = -0.0900019
+margin_top = -0.179002
+margin_right = 0.043989
+margin_bottom = -0.0740068
+text = "Up"
+
+[node name="Buttons" type="Button" parent="."]
+anchor_left = 0.211
+anchor_top = 0.517
+anchor_right = 0.302
+anchor_bottom = 0.633
+margin_left = 0.0139945
+margin_top = 0.158993
+margin_right = 0.147993
+margin_bottom = -0.10901
+text = "Down"
+
+[node name="Buttond" type="Button" parent="."]
+anchor_left = 0.327
+anchor_top = 0.37
+anchor_right = 0.418
+anchor_bottom = 0.5
+margin_left = -0.00201154
+margin_top = -0.0100018
+margin_right = 0.131995
+margin_bottom = -5.5
+text = "right"
+
+[node name="Buttona" type="Button" parent="."]
+anchor_left = 0.093
+anchor_top = 0.375
+anchor_right = 0.184
+anchor_bottom = 0.5
+margin_left = 0.0819988
+margin_top = 0.124989
+margin_right = 0.216007
+margin_bottom = -3.49999
+text = "left"

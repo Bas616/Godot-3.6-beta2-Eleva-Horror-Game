@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/elevator-dingwav-14913.mp3-ebf42e6da21c60df8a967fc99cb29e02.mp3str"
+
+[deps]
+
+source_file="res://elevator-dingwav-14913.mp3"
+dest_files=[ "res://.import/elevator-dingwav-14913.mp3-ebf42e6da21c60df8a967fc99cb29e02.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
